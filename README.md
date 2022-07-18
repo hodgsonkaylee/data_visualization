@@ -1,3 +1,4 @@
+# data_visualization
 This repository contains projects that demonstrate my data visualization skills, specifically using **ggplot2** in R, **Adobe Illustrator**, and **RShiny**. I also have advanced data visualization skills in **Tableau**. See the dashboards at https://www.auditor.utah.gov/kids for examples of my work in Tableau. I specifically created the Teacher Pay, Graduation Rates, and Title I Program Effectiveness dashboards, and have updated and maintained the other dashboards on that site. 
 
 Each folder in this repository contains the data, R code to create the visualization, and the final visualization, after exporting from R and refining in Adobe Illustrator. The projects in each folder are described below.
